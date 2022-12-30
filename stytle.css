@@ -42,3 +42,18 @@ border-collapse: collapse;
 border-spacing: 0;
 }
 
+h1 {
+    display: block;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: salmon;
+}
+
+p {
+    padding: 50px;
+    text-align: justify;
+}
